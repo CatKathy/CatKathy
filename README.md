@@ -1,8 +1,8 @@
 ## Hi there 👋
 - 😊 I’m Kathy Zhang
-- 👀 I’m interested in hiking, ice-skating
 - 🌱 I’m currently learning Java, Python, SQL
 - 🎓 MIA @UCSD, MSIS @SDSU
+- 👀 Actively looking for SDE summer intern
 - 📫 Reach me: kathyz0819@gmail.com
 
 <!---
