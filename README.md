@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 😊 I’m Kathy Zhang
 - 🎓 MIA @UCSD, MSIS @SDSU
-- 📫 Reach me: kzhang2380@sdsu.edu
+- 📫 Reach me: kathyz0819@gmail.com
 
 <!---
 CatKathy/CatKathy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
